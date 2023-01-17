@@ -2,7 +2,6 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-#蛋糕商城管理系统 #java web #java #毕业设计 #课程设计 #编程 #jsp #servlet #源代码 #bootstrap #mysql
 
 ## 基于Java的蛋糕商城管理系统
 
